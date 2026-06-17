@@ -29,14 +29,14 @@ Dark-mode first. Zero bloat. Every decision justified.
 
 <br/>
 
-**[Scarabix](https://scarabix.vercel.app/)**
+**[Scarabix](https://scarabix.org/)**
 &nbsp;&nbsp;`Next.js` `TypeScript` `Tailwind CSS`
 
 A digital engineering agency. High-performance web infrastructure, bespoke architectures, and interfaces built with the precision of a blueprint — not visited, but experienced.
 
 <br/>
 
-**[QR Code Generator](https://scarabix-qr-generator.vercel.app/)**
+**[QR Code Generator](https://qr.scarabix.org/)**
 &nbsp;&nbsp;`Next.js` `PostgreSQL` `Redis` `Stripe` `NextAuth`
 
 A premium SaaS QR platform. High-fidelity inscription engine, dynamic redirect infrastructure, and edge-level security proxy — all in one silent-confident interface.
@@ -75,7 +75,7 @@ A premium SaaS QR platform. High-fidelity inscription engine, dynamic redirect i
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/hosnie.vercel.app-0d0d0d?style=flat-square&logo=vercel&logoColor=f5f5f5)](https://hosnie.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/hosnie.vercel.app-0d0d0d?style=flat-square&logo=vercel&logoColor=f5f5f5)](https://hosnie.scarabix.org/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/@abdohosnie-0d0d0d?style=flat-square&logo=github&logoColor=f5f5f5)](https://github.com/abdohosnie)
 &nbsp;&nbsp;
