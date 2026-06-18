@@ -7,8 +7,9 @@
 <br/>
 
 ```
-Complexity is a smell. I build systems that are fast, private, and exact.
-Dark-mode first. Zero bloat. Every decision justified.
+Noise is a vulnerability. 
+I engineer high-throughput systems and low-latency interfaces.
+No frameworks for the sake of frameworks. Pure execution.
 ```
 
 <br/>
@@ -48,11 +49,16 @@ A premium SaaS QR platform. High-fidelity inscription engine, dynamic redirect i
 ## Metrics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdohosnie&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5f5f5&icon_color=dc2626&text_color=999999&count_private=true&hide_rank=false" height="160" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdohosnie&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5f5f5&text_color=999999&langs_count=5" height="160" />
-
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=abdohosnie&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5f5f5&icon_color=dc2626&text_color=999999&count_private=true&include_all_commits=true&hide_rank=false" height="160" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdohosnie&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=f5f5f5&text_color=999999&langs_count=5" height="160" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
@@ -75,7 +81,7 @@ A premium SaaS QR platform. High-fidelity inscription engine, dynamic redirect i
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/hosnie.vercel.app-0d0d0d?style=flat-square&logo=vercel&logoColor=f5f5f5)](https://hosnie.scarabix.org/)
+[![Portfolio](https://img.shields.io/badge/hosnie.scarabix.org-0d0d0d?style=flat-square&logo=vercel&logoColor=f5f5f5)](https://hosnie.scarabix.org/)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/@abdohosnie-0d0d0d?style=flat-square&logo=github&logoColor=f5f5f5)](https://github.com/abdohosnie)
 &nbsp;&nbsp;
