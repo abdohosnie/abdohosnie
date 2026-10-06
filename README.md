@@ -69,16 +69,6 @@ A premium SaaS QR platform. High-fidelity inscription engine, dynamic redirect i
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdohosnie&bg_color=0d0d0d&color=888888&line=dc2626&point=f5f5f5&area=true&area_color=1a1a1a&hide_border=true)](https://github.com/abdohosnie)
-
-</div>
-
----
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/hosnie.scarabix.org-0d0d0d?style=flat-square&logo=vercel&logoColor=f5f5f5)](https://hosnie.scarabix.org/)
