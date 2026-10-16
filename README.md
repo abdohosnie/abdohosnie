@@ -38,7 +38,7 @@ A digital engineering agency. High-performance web infrastructure, bespoke archi
 <br/>
 
 **[QR Code Generator](https://qr.scarabix.org/)**
-&nbsp;&nbsp;`Next.js` `PostgreSQL` `Redis` `Stripe` `NextAuth`
+&nbsp;&nbsp;`Next.js` `PostgreSQL` `Redis` `NextAuth`
 
 A premium SaaS QR platform. High-fidelity inscription engine, dynamic redirect infrastructure, and edge-level security proxy — all in one silent-confident interface.
 
