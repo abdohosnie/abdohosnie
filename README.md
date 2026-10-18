@@ -157,7 +157,7 @@
 
 <!-- 2. FIXED ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://ghchart.rshah.org/dc2626/abdohosnie" width="100%" alt="Real GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/dc2626/070707/abdohosnie" width="100%" alt="Real GitHub Contribution Chart" />
 </p>
 
 <br/><br/>
