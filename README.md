@@ -23,15 +23,9 @@
 
 <br/>
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│  SYS.MANIFESTO // KEMET LINEAGE                                           STATUS: ONLINE │
-├──────────────────────────────────────────────────────────────────────────────────────────┤
-│  Noise is a vulnerability.                                                               │
-│  I engineer high-throughput distributed systems and low-latency spatial interfaces.      │
-│  No frameworks for the sake of frameworks. Zero waterfall latency. Pure execution.       │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="./assets/telemetry-hud.svg" width="100%" alt="System Manifesto and Architecture Telemetry" />
+</p>
 
 ---
 
