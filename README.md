@@ -155,13 +155,6 @@
 
 <br/>
 
-<!-- 2. FIXED ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/dc2626/070707/abdohosnie" width="100%" height="auto" alt="Abdelrahman's Contribution Chart" />
-</p>
-
-<br/><br/>
-
 <img src="./assets/laser-divider.svg" width="100%" alt="Divider" />
 
 <br/>
