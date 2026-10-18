@@ -117,7 +117,6 @@
       <h3><a href="https://hosnie.scarabix.org/">05 · Spatial 3D WebGL Registry</a></h3>
       <p>
         <img src="https://img.shields.io/badge/WEBGL_SHADERS-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/THREE.JS_%2F_R3F-0a0a0a?style=flat-square" />
         <img src="https://img.shields.io/badge/LENIS_SCROLL-0a0a0a?style=flat-square" />
         <img src="https://img.shields.io/badge/MOTION_12-0a0a0a?style=flat-square" />
       </p>
