@@ -150,23 +150,33 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
+<!-- LIVE TERMINAL SCANNER ABOVE GRAPH (NO EXTRA FILE NEEDED) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&repeat=true&width=820&height=28&lines=%5BSYS.TELEMETRY%5D+SCANNING+PRODUCTION+REPOSITORIES...+%7C+STATUS%3A+OPTIMAL;%5BSTREAM.INGEST%5D+SYNCING+COMMIT+VELOCITY+GRAPH+%2F%2F+%40ABDOHOSNIE;%5BEDGE.NODE%5D+ALL+SYSTEMS+OPERATIONAL+%7C+ZERO+WATERFALL+LATENCY" alt="Telemetry Scanner" />
+
+<!-- ANIMATED COMMIT ACTIVITY GRAPH (UPGRADED GLOW, RADIUS & POINT NODES) -->
+<a href="https://github.com/abdohosnie">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdohosnie&bg_color=070707&color=FAF9F6&line=dc2626&point=FAF9F6&area=true&area_color=dc2626&hide_border=true&radius=8&height=320&custom_title=REALTIME%20COMMIT%20TELEMETRY%20//%20@ABDOHOSNIE" width="100%" alt="Activity Graph" />
+</a>
+
+<br/><br/>
+
+<img src="./assets/laser-divider.svg" width="100%" alt="Divider" />
+
+<br/>
+
+<!-- UNIFIED STATS, LANGUAGES & STREAK HUD -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdohosnie&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FAF9F6&icon_color=dc2626&text_color=a3a3a3&count_private=true&include_all_commits=true&hide_rank=false" height="165" alt="GitHub Stats" />
+    <td width="52%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=abdohosnie&show_icons=true&theme=dark&hide_border=true&bg_color=070707&title_color=FAF9F6&icon_color=dc2626&text_color=a3a3a3&count_private=true&include_all_commits=true&hide_rank=false" width="100%" alt="GitHub Stats" />
     </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdohosnie&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=FAF9F6&text_color=a3a3a3&langs_count=6" height="165" alt="Top Languages" />
+    <td width="48%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdohosnie&layout=compact&theme=dark&hide_border=true&bg_color=070707&title_color=FAF9F6&text_color=a3a3a3&langs_count=6" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdohosnie&theme=dark&hide_border=true&background=0a0a0a&stroke=1f1f1f&ring=dc2626&fire=dc2626&currStreakNum=FAF9F6&sideNums=a3a3a3&currStreakLabel=dc2626&sideLabels=888888&dates=555555" width="76%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<!-- ANIMATED COMMIT ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdohosnie&bg_color=0a0a0a&color=FAF9F6&line=dc2626&point=FAF9F6&area=true&area_color=8b0000&hide_border=true&custom_title=REALTIME%20COMMIT%20TELEMETRY%20//%20@ABDOHOSNIE" width="96%" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdohosnie&theme=dark&hide_border=true&background=070707&stroke=1a1a1a&ring=dc2626&fire=dc2626&currStreakNum=FAF9F6&sideNums=a3a3a3&currStreakLabel=dc2626&sideLabels=888888&dates=555555" width="82%" alt="GitHub Streak" />
 
 </div>
 
