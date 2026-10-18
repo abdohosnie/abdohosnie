@@ -156,9 +156,9 @@
 <br/>
 
 <!-- 2. FIXED ACTIVITY GRAPH -->
-<a href="https://github.com/abdohosnie">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdohosnie&bg_color=070707&color=FAF9F6&line=dc2626&point=FAF9F6&area=true&area_color=dc2626&hide_border=true&radius=8&days=30&custom_title=REALTIME%20COMMIT%20TELEMETRY%20//%20@ABDOHOSNIE" width="100%" alt="Real Commit Activity Graph" />
-</a>
+<p align="center">
+  <img src="https://ghchart.rshah.org/dc2626/abdohosnie" width="100%" alt="Real GitHub Contribution Chart" />
+</p>
 
 <br/><br/>
 
