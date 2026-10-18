@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HERO HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:6b0000,100:dc2626&height=190&section=header&text=Abdelrahman%20Hosnie&fontSize=44&fontAlignY=36&desc=FOUNDER%20%40%20SCARABIX%20%20%C2%B7%20%20FULL-STACK%20SYSTEMS%20ARCHITECT%20%20%F0%93%82%80&descSize=15&descAlignY=58&descAlign=50&fontColor=FAF9F6&descColor=d4d4d4&animation=fadeIn" width="100%" alt="Abdelrahman Hosnie Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:6b0000,100:dc2626&height=190&section=header&text=Abdelrahman%20Hosnie&fontSize=44&fontAlignY=36&desc=FOUNDER%20%40%20SCARABIX%20%20%C2%B7%20%20FULL-STACK%20SOFTWARE%20ENGINEER%20%20%F0%93%82%80&descSize=15&descAlignY=58&descAlign=50&fontColor=FAF9F6&descColor=d4d4d4&animation=fadeIn" width="100%" alt="Abdelrahman Hosnie Header" />
 
 <!-- KINETIC TYPING TELEMETRY -->
 <a href="https://hosnie.scarabix.org/">
