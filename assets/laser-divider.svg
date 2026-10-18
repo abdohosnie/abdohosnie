@@ -1,0 +1,40 @@
+<img src="./assets/laser-divider.svg" width="100%" alt="Divider" />
+
+## `03 // SYSTEM TELEMETRY & COMMIT VELOCITY`
+
+<div align="center">
+
+<!-- 1. 60FPS ANIMATED OSCILLOSCOPE & RADAR HUD -->
+<img src="./assets/live-telemetry.svg" width="100%" alt="Live Telemetry HUD" />
+
+<br/><br/>
+
+<!-- 2. AUTOMATED CRIMSON CONTRIBUTION SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdohosnie/abdohosnie/output/github-snake-crimson.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdohosnie/abdohosnie/output/github-snake-crimson.svg" />
+  <img alt="Crimson Contribution Snake" src="https://raw.githubusercontent.com/abdohosnie/abdohosnie/output/github-snake-crimson.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- 3. ANIMATED GITHUB COMMIT ACTIVITY GRAPH (WITH GLOWING AREA & POINT NODES) -->
+<a href="https://github.com/abdohosnie">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdohosnie&bg_color=070707&color=FAF9F6&line=dc2626&point=FAF9F6&area=true&area_color=dc2626&hide_border=true&radius=6&custom_title=COMMIT%20FREQUENCY%20TELEMETRY%20//%20LAST%2031%20DAYS" width="100%" alt="Realtime Commit Activity Graph" />
+</a>
+
+<br/><br/>
+
+<!-- 4. STATS & STREAK DECK -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=abdohosnie&show_icons=true&theme=dark&hide_border=true&bg_color=070707&title_color=FAF9F6&icon_color=dc2626&text_color=a3a3a3&count_private=true&include_all_commits=true&hide_rank=false" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdohosnie&theme=dark&hide_border=true&background=070707&stroke=1a1a1a&ring=dc2626&fire=dc2626&currStreakNum=FAF9F6&sideNums=a3a3a3&currStreakLabel=dc2626&sideLabels=888888&dates=555555" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+</div>
