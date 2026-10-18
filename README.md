@@ -35,7 +35,7 @@
 
 <!-- SKILL ICONS VISUAL BAR -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,threejs,nodejs,postgres,prisma,redis,vercel,docker,git&theme=dark&perline=12" alt="Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,nodejs,postgres,prisma,redis,vercel,git&theme=dark&perline=12" alt="Core Tech Stack" />
 </p>
 
 </div>
