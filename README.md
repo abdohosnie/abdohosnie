@@ -153,8 +153,6 @@
 <!-- 1. FIXED LIVE TERMINAL SCANNER (CLEAN ASCII QUERY STRING) -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&repeat=true&width=820&height=28&lines=SYS.TELEMETRY+SCANNING+PRODUCTION+REPOSITORIES...;STREAM.INGEST+SYNCING+COMMIT+VELOCITY+FOR+ABDOHOSNIE;EDGE.NODE+ALL+SYSTEMS+OPERATIONAL+ZERO+WATERFALL+LATENCY" alt="Telemetry Scanner" />
 
-<br/><br/>
-
 <!-- UNIFIED STATS, LANGUAGES & STREAK HUD -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
