@@ -150,12 +150,14 @@
 
 <div align="center">
 
-<!-- LIVE TERMINAL SCANNER ABOVE GRAPH (NO EXTRA FILE NEEDED) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&repeat=true&width=820&height=28&lines=%5BSYS.TELEMETRY%5D+SCANNING+PRODUCTION+REPOSITORIES...+%7C+STATUS%3A+OPTIMAL;%5BSTREAM.INGEST%5D+SYNCING+COMMIT+VELOCITY+GRAPH+%2F%2F+%40ABDOHOSNIE;%5BEDGE.NODE%5D+ALL+SYSTEMS+OPERATIONAL+%7C+ZERO+WATERFALL+LATENCY" alt="Telemetry Scanner" />
+<!-- 1. FIXED LIVE TERMINAL SCANNER (CLEAN ASCII QUERY STRING) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=800&color=DC2626&center=true&vCenter=true&repeat=true&width=820&height=28&lines=SYS.TELEMETRY+SCANNING+PRODUCTION+REPOSITORIES...;STREAM.INGEST+SYNCING+COMMIT+VELOCITY+FOR+ABDOHOSNIE;EDGE.NODE+ALL+SYSTEMS+OPERATIONAL+ZERO+WATERFALL+LATENCY" alt="Telemetry Scanner" />
 
-<!-- ANIMATED COMMIT ACTIVITY GRAPH (UPGRADED GLOW, RADIUS & POINT NODES) -->
+<br/>
+
+<!-- 2. FIXED ACTIVITY GRAPH -->
 <a href="https://github.com/abdohosnie">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdohosnie&bg_color=070707&color=FAF9F6&line=dc2626&point=FAF9F6&area=true&area_color=dc2626&hide_border=true&radius=8&height=320&custom_title=REALTIME%20COMMIT%20TELEMETRY%20//%20@ABDOHOSNIE" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdohosnie&bg_color=0a0a0a&color=FAF9F6&line=dc2626&point=FAF9F6&area=true&area_color=8b0000&hide_border=true&days=30&custom_title=REALTIME+COMMIT+TELEMETRY" width="98%" alt="Activity Graph" />
 </a>
 
 <br/><br/>
