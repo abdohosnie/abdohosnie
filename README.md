@@ -27,7 +27,7 @@
   <img src="./assets/telemetry-hud.svg" width="100%" alt="System Manifesto and Architecture Telemetry" />
 </p>
 
----
+<img src="./assets/laser-divider.svg" width="100%" />
 
 ## `01 // ARCHITECTURE & PRODUCTION STACK`
 
@@ -47,7 +47,7 @@
 | **Interface, 3D & Motion** | ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Framer Motion](https://img.shields.io/badge/Framer_Motion_14-0a0a0a?style=flat-square&logo=framer&logoColor=FAF9F6) ![Three.js](https://img.shields.io/badge/Three.js_%2F_R3F_%2F_GLSL-0a0a0a?style=flat-square&logo=threedotjs&logoColor=FAF9F6) ![Radix UI](https://img.shields.io/badge/Radix_UI_%26_React_Aria-0a0a0a?style=flat-square&logo=radixui&logoColor=FAF9F6) ![Lenis](https://img.shields.io/badge/Lenis_Smooth_Scroll-0a0a0a?style=flat-square&logo=webgl&logoColor=DC2626) |
 | **Transports, Edge & QA** | ![SSE](https://img.shields.io/badge/Web_ReadableStream_SSE-0a0a0a?style=flat-square&logo=cloudflare&logoColor=F38020) ![WebSockets](https://img.shields.io/badge/WebSockets_(ws)-0a0a0a?style=flat-square&logo=socketdotio&logoColor=FAF9F6) ![Axiom](https://img.shields.io/badge/Axiom_APL_Telemetry-0a0a0a?style=flat-square&logo=datadog&logoColor=DC2626) ![pnpm](https://img.shields.io/badge/pnpm_Workspaces-0a0a0a?style=flat-square&logo=pnpm&logoColor=F69220) ![Playwright](https://img.shields.io/badge/Playwright_%2B_Vitest-0a0a0a?style=flat-square&logo=playwright&logoColor=2EAD33) |
 
----
+<img src="./assets/laser-divider.svg" width="100%" />
 
 ## `02 // FLAGSHIP SYSTEMS REGISTRY`
 
@@ -144,7 +144,7 @@
   </tr>
 </table>
 
----
+<img src="./assets/laser-divider.svg" width="100%" />
 
 ## `03 // SYSTEM TELEMETRY & COMMIT VELOCITY`
 
