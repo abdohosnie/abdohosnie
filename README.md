@@ -5,7 +5,7 @@
 
 <!-- KINETIC TYPING TELEMETRY -->
 <a href="https://hosnie.scarabix.org/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&repeat=true&width=780&height=34&lines=NEXT.JS+16+(TURBOPACK)+%C2%B7+REACT+19+%C2%B7+TYPESCRIPT+5+%C2%B7+TAILWIND+V4;EDGE+SECURITY+PROXIES+%C2%B7+WRITE-BEHIND+REDIS+%C2%B7+EVENT+STREAMS;INDUSTRIAL+IoT+TELEMETRY+%C2%B7+SUB-16MS+SSE+%C2%B7+WEBASSEMBLY+MEDIA+ENGINES;SONS+OF+THE+FIRST+ENGINEERS+BUILDING+DIGITAL+MONUMENTS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&repeat=true&width=780&height=34&lines=NEXT.JS+16+(TURBOPACK)+%C2%B7+REACT+19+%C2%B7+TYPESCRIPT+5+%C2%B7+TAILWIND+V4;EDGE+SECURITY+PROXIES+%C2%B7+WRITE-BEHIND+REDIS+%C2%B7+EVENT+STREAMS;SUB-16MS+SSE+STREAMS+%C2%B7+DIRECT-TO-DRIVE+VAULTS+%C2%B7+WASM+MEDIA+ENGINES;SONS+OF+THE+FIRST+ENGINEERS+BUILDING+DIGITAL+MONUMENTS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -68,23 +68,37 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · United Batteries — Traceability Hub</h3>
+      <h3><a href="https://flagcal.scarabix.org/">02 · FlagCal — Travel Calendar & World Map</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/INDUSTRIAL_MES-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/HARDWARE_WEDGE-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/OFFLINE_PWA-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/PRISMA_7-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/SCHENGEN_90%2F180-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/NEON_POSTGRES-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/UPSTASH_REDIS-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/NEXT.JS-0a0a0a?style=flat-square" />
       </p>
-      <p>Mission-critical industrial battery manufacturing lifecycle & quality control execution platform.</p>
+      <p>Visual calendar that replaces dates with country flags and turns trips into a world map.</p>
       <ul>
-        <li><b>Hardware Barcode Wedge:</b> Global listener capturing raw handheld laser scanner bursts (under 35ms inter-character delay) with focus-locking and tactile feedback.</li>
-        <li><b>Offline-First & 5-Lane FSM:</b> Queues factory floor scans in <code>IndexedDB</code> for zero-loss batch ingestion across an atomic 5-lane production Finite State Machine.</li>
+        <li><b>Residency Engines:</b> Rolling Schengen 90/180 visa compliance and 183-day tax-residency tracking across contiguous trip periods.</li>
+        <li><b>Shareable Travel Passport:</b> Public profiles, follows, and canvas-rendered share images for digital nomads.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://tempo.scarabix.org/">03 · Tempo — Real-Time Bilingual Engine</a></h3>
+      <h3><a href="https://void.scarabix.org/">03 · VOID — File Drop & Universal Clipboard</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/GOOGLE_DRIVE_API-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/DRIZZLE_ORM-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/UPSTASH_REDIS-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/ANDROID-0a0a0a?style=flat-square" />
+      </p>
+      <p>Personal zero-friction file vault and cross-device clipboard with a native Android client.</p>
+      <ul>
+        <li><b>Direct-to-Drive Uploads:</b> Resumable browser-to-Google-Drive transfers under the least-privilege <code>drive.file</code> scope, so file bytes never pass through the app server.</li>
+        <li><b>Hardened Access:</b> PIN-gated dashboard, HMAC-signed sessions, and fail-closed Upstash rate limiting on Neon + Drizzle.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://tempo.scarabix.org/">04 · Tempo — Real-Time Bilingual Engine</a></h3>
       <p>
         <img src="https://img.shields.io/badge/SUB--16MS_UI-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/REACT_19-0a0a0a?style=flat-square" />
@@ -97,8 +111,24 @@
         <li><b>Keyset Virtualization:</b> Zero-<code>OFFSET</code> cursor pagination over <code>@tanstack/react-virtual</code> with strict Arabic cursive ligature isolation (<code>IBM Plex Sans Arabic</code>).</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://scarabix.org/">04 · Scarabix Agency OS & Command ERP</a></h3>
+      <h3><a href="https://www.renmemoria.com/">05 · Ren Memoria — Archival Luxury Vault</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/ARCHIVAL_COMMERCE-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/NEON_AUTH-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/STRIPE_SDK-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/VERCEL_BLOB-0a0a0a?style=flat-square" />
+      </p>
+      <p>High-fashion archival e-commerce terminal and physical artifact inventory vault.</p>
+      <ul>
+        <li><b>Client-Side Asset Pipeline:</b> Compresses multi-megabyte studio photography in browser Web Workers prior to streaming directly to Vercel Blob storage.</li>
+        <li><b>Hybrid Checkout & Clearance Nodes:</b> Combines global Stripe payment sessions with direct WhatsApp order routing across isolated Neon Auth security nodes.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://scarabix.org/">06 · Scarabix Agency OS & Command ERP</a></h3>
       <p>
         <img src="https://img.shields.io/badge/ENTERPRISE_ERP-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/JSONB_AUDIT-0a0a0a?style=flat-square" />
@@ -114,7 +144,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://zerohop.scarabix.org/">05 · ZEROHOP — Client-Side Media Suite</a></h3>
+      <h3><a href="https://zerohop.scarabix.org/">07 · ZEROHOP — Client-Side Media Suite</a></h3>
       <p>
         <img src="https://img.shields.io/badge/ZERO_SERVER-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/WEBASSEMBLY-0a0a0a?style=flat-square" />
@@ -128,53 +158,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://void.scarabix.org/">06 · VOID — File Drop & Universal Clipboard</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/GOOGLE_DRIVE_API-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/DRIZZLE_ORM-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/UPSTASH_REDIS-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/ANDROID-0a0a0a?style=flat-square" />
-      </p>
-      <p>Personal zero-friction file vault and cross-device clipboard with a native Android client.</p>
-      <ul>
-        <li><b>Direct-to-Drive Uploads:</b> Resumable browser-to-Google-Drive transfers under the least-privilege <code>drive.file</code> scope, so file bytes never pass through the app server.</li>
-        <li><b>Hardened Access:</b> PIN-gated dashboard, HMAC-signed sessions, and fail-closed Upstash rate limiting on Neon + Drizzle.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://flagcal.scarabix.org/">07 · FlagCal — Travel Calendar & World Map</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/SCHENGEN_90%2F180-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/NEON_POSTGRES-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/UPSTASH_REDIS-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/NEXT.JS-0a0a0a?style=flat-square" />
-      </p>
-      <p>Visual calendar that replaces dates with country flags and turns trips into a world map.</p>
-      <ul>
-        <li><b>Residency Engines:</b> Rolling Schengen 90/180 visa compliance and 183-day tax-residency tracking across contiguous trip periods.</li>
-        <li><b>Shareable Travel Passport:</b> Public profiles, follows, and canvas-rendered share images for digital nomads.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://www.renmemoria.com/">08 · Ren Memoria — Archival Luxury Vault</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/ARCHIVAL_COMMERCE-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/NEON_AUTH-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/STRIPE_SDK-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/VERCEL_BLOB-0a0a0a?style=flat-square" />
-      </p>
-      <p>High-fashion archival e-commerce terminal and physical artifact inventory vault.</p>
-      <ul>
-        <li><b>Client-Side Asset Pipeline:</b> Compresses multi-megabyte studio photography in browser Web Workers prior to streaming directly to Vercel Blob storage.</li>
-        <li><b>Hybrid Checkout & Clearance Nodes:</b> Combines global Stripe payment sessions with direct WhatsApp order routing across isolated Neon Auth security nodes.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://hosnie.scarabix.org/">09 · Editorial Portfolio — hosnie.scarabix.org</a></h3>
+      <h3><a href="https://hosnie.scarabix.org/">08 · Editorial Portfolio — hosnie.scarabix.org</a></h3>
       <p>
         <img src="https://img.shields.io/badge/LIQUID_SVG_CARDS-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/GSAP_%2B_LENIS-0a0a0a?style=flat-square" />
