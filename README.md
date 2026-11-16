@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://chat.scarabix.org/">03 · Tempo — Real-Time Bilingual Engine</a></h3>
+      <h3><a href="https://tempo.scarabix.org/">03 · Tempo — Real-Time Bilingual Engine</a></h3>
       <p>
         <img src="https://img.shields.io/badge/SUB--16MS_UI-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/REACT_19-0a0a0a?style=flat-square" />
