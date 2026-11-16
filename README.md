@@ -5,7 +5,7 @@
 
 <!-- KINETIC TYPING TELEMETRY -->
 <a href="https://hosnie.scarabix.org/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&repeat=true&width=780&height=34&lines=NEXT.JS+16+(TURBOPACK)+%C2%B7+REACT+19+%C2%B7+TYPESCRIPT+5+%C2%B7+TAILWIND+V4;EDGE+SECURITY+PROXIES+%C2%B7+WRITE-BEHIND+REDIS+%C2%B7+EVENT+STREAMS;INDUSTRIAL+IoT+TELEMETRY+%C2%B7+SUB-16MS+SSE+%C2%B7+3D+WEBGL+SHADERS;SONS+OF+THE+FIRST+ENGINEERS+BUILDING+DIGITAL+MONUMENTS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&repeat=true&width=780&height=34&lines=NEXT.JS+16+(TURBOPACK)+%C2%B7+REACT+19+%C2%B7+TYPESCRIPT+5+%C2%B7+TAILWIND+V4;EDGE+SECURITY+PROXIES+%C2%B7+WRITE-BEHIND+REDIS+%C2%B7+EVENT+STREAMS;INDUSTRIAL+IoT+TELEMETRY+%C2%B7+SUB-16MS+SSE+%C2%B7+WEBASSEMBLY+MEDIA+ENGINES;SONS+OF+THE+FIRST+ENGINEERS+BUILDING+DIGITAL+MONUMENTS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,7 +44,7 @@
 | :--- | :--- |
 | **Runtime & Core Engine** | ![TypeScript 5](https://img.shields.io/badge/TypeScript_5-0a0a0a?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js 16](https://img.shields.io/badge/Next.js_16_(Turbopack)-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=FAF9F6) ![React 19](https://img.shields.io/badge/React_19_(Compiler_%2B_useOptimistic)-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js_20%2B-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=5FA04E) |
 | **Data, Cache & Event Streams** | ![Neon Postgres](https://img.shields.io/badge/Neon_Serverless_PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00E599) ![Prisma 7](https://img.shields.io/badge/Prisma_7_(Neon_Adapter)-0a0a0a?style=flat-square&logo=prisma&logoColor=FAF9F6) ![Upstash Redis](https://img.shields.io/badge/Upstash_Redis_%26_Streams_(XADD)-0a0a0a?style=flat-square&logo=redis&logoColor=DC2626) ![QStash](https://img.shields.io/badge/Upstash_QStash-0a0a0a?style=flat-square&logo=upstash&logoColor=00E9A3) ![IndexedDB](https://img.shields.io/badge/IndexedDB_Offline_Queues-0a0a0a?style=flat-square&logo=databricks&logoColor=DC2626) |
-| **Interface, 3D & Motion** | ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Framer Motion](https://img.shields.io/badge/Framer_Motion_14-0a0a0a?style=flat-square&logo=framer&logoColor=FAF9F6) ![Radix UI](https://img.shields.io/badge/Radix_UI_%26_React_Aria-0a0a0a?style=flat-square&logo=radixui&logoColor=FAF9F6) |
+| **Interface, Motion & Client Compute** | ![Tailwind CSS v4](https://img.shields.io/badge/Tailwind_CSS_v4-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Framer Motion](https://img.shields.io/badge/Framer_Motion_14-0a0a0a?style=flat-square&logo=framer&logoColor=FAF9F6) ![Radix UI](https://img.shields.io/badge/Radix_UI_%26_React_Aria-0a0a0a?style=flat-square&logo=radixui&logoColor=FAF9F6) ![GSAP + Lenis](https://img.shields.io/badge/GSAP_%2B_Lenis_Smooth_Scroll-0a0a0a?style=flat-square&logo=greensock&logoColor=88CE02) ![WebAssembly](https://img.shields.io/badge/WebAssembly_%2B_WebCodecs-0a0a0a?style=flat-square&logo=webassembly&logoColor=654FF0) |
 | **Transports, Edge & QA** | ![SSE](https://img.shields.io/badge/Web_ReadableStream_SSE-0a0a0a?style=flat-square&logo=cloudflare&logoColor=F38020) ![WebSockets](https://img.shields.io/badge/WebSockets_(ws)-0a0a0a?style=flat-square&logo=socketdotio&logoColor=FAF9F6) ![Axiom](https://img.shields.io/badge/Axiom_APL_Telemetry-0a0a0a?style=flat-square&logo=datadog&logoColor=DC2626) ![pnpm](https://img.shields.io/badge/pnpm_Workspaces-0a0a0a?style=flat-square&logo=pnpm&logoColor=F69220)
 
 <img src="./assets/laser-divider.svg" width="100%" />
@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · Tempo — Real-Time Bilingual Engine</h3>
+      <h3><a href="https://chat.scarabix.org/">03 · Tempo — Real-Time Bilingual Engine</a></h3>
       <p>
         <img src="https://img.shields.io/badge/SUB--16MS_UI-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/REACT_19-0a0a0a?style=flat-square" />
@@ -114,20 +114,51 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://hosnie.scarabix.org/">05 · Spatial 3D WebGL Registry</a></h3>
+      <h3><a href="https://zerohop.scarabix.org/">05 · ZEROHOP — Client-Side Media Suite</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/WEBGL_SHADERS-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/LENIS_SCROLL-0a0a0a?style=flat-square" />
-        <img src="https://img.shields.io/badge/MOTION_12-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/ZERO_SERVER-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/WEBASSEMBLY-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/WEBCODECS-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/OPFS-0a0a0a?style=flat-square" />
       </p>
-      <p>Cinematic 3D developer portfolio and interactive architectural registry.</p>
+      <p>Convert, compress, and transform images, video, audio, and PDFs entirely in the browser. Nothing is ever uploaded.</p>
       <ul>
-        <li><b>WebGL / DOM Dual-Layer Sync:</b> Coordinates React Three Fiber scene graphs and postprocessing shaders with DOM layout transitions via a custom <code>GlobalScrollProvider</code>.</li>
-        <li><b>Inertial Camera Choreography:</b> Scroll-driven spatial camera trajectories, kinetic typography, and custom ghost cursor physics.</li>
+        <li><b>Zero Server Hops:</b> Files never leave the device. Processing runs on WebAssembly engines (<code>wasm-vips</code>, <code>pdf-lib</code>) and GPU WebCodecs, with OPFS-backed storage for large files.</li>
+        <li><b>Offline-Ready PWA:</b> One statically exported Next.js app covering HEIC, PDF, DOCX, XLSX, and archive pipelines with instant, 100% private processing.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>06 · Ren Memoria — Archival Luxury Vault</h3>
+      <h3><a href="https://void.scarabix.org/">06 · VOID — File Drop & Universal Clipboard</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/GOOGLE_DRIVE_API-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/DRIZZLE_ORM-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/UPSTASH_REDIS-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/ANDROID-0a0a0a?style=flat-square" />
+      </p>
+      <p>Personal zero-friction file vault and cross-device clipboard with a native Android client.</p>
+      <ul>
+        <li><b>Direct-to-Drive Uploads:</b> Resumable browser-to-Google-Drive transfers under the least-privilege <code>drive.file</code> scope, so file bytes never pass through the app server.</li>
+        <li><b>Hardened Access:</b> PIN-gated dashboard, HMAC-signed sessions, and fail-closed Upstash rate limiting on Neon + Drizzle.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://flagcal.scarabix.org/">07 · FlagCal — Travel Calendar & World Map</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/SCHENGEN_90%2F180-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/NEON_POSTGRES-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/UPSTASH_REDIS-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/NEXT.JS-0a0a0a?style=flat-square" />
+      </p>
+      <p>Visual calendar that replaces dates with country flags and turns trips into a world map.</p>
+      <ul>
+        <li><b>Residency Engines:</b> Rolling Schengen 90/180 visa compliance and 183-day tax-residency tracking across contiguous trip periods.</li>
+        <li><b>Shareable Travel Passport:</b> Public profiles, follows, and canvas-rendered share images for digital nomads.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://www.renmemoria.com/">08 · Ren Memoria — Archival Luxury Vault</a></h3>
       <p>
         <img src="https://img.shields.io/badge/ARCHIVAL_COMMERCE-DC2626?style=flat-square" />
         <img src="https://img.shields.io/badge/NEON_AUTH-0a0a0a?style=flat-square" />
@@ -138,6 +169,22 @@
       <ul>
         <li><b>Client-Side Asset Pipeline:</b> Compresses multi-megabyte studio photography in browser Web Workers prior to streaming directly to Vercel Blob storage.</li>
         <li><b>Hybrid Checkout & Clearance Nodes:</b> Combines global Stripe payment sessions with direct WhatsApp order routing across isolated Neon Auth security nodes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://hosnie.scarabix.org/">09 · Editorial Portfolio — hosnie.scarabix.org</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/LIQUID_SVG_CARDS-DC2626?style=flat-square" />
+        <img src="https://img.shields.io/badge/GSAP_%2B_LENIS-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/FRAMER_MOTION-0a0a0a?style=flat-square" />
+        <img src="https://img.shields.io/badge/GPU_TRANSFORMS-0a0a0a?style=flat-square" />
+      </p>
+      <p>Brutalist-editorial developer portfolio with a full-screen curtain menu and hand-built SVG card geometry.</p>
+      <ul>
+        <li><b>Liquid SVG Cards:</b> Project cards are drawn from concentric-arc path math with a notch that wraps the CTA pill, re-measured live with <code>ResizeObserver</code>.</li>
+        <li><b>Compositor-Only Motion:</b> Lenis smooth scroll driven by the GSAP ticker, with scroll progress and menu transitions on GPU transforms (<code>scaleX</code> / <code>translate3d</code>) and zero React re-renders.</li>
       </ul>
     </td>
   </tr>
