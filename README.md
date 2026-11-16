@@ -187,10 +187,10 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="52%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=abdohosnie&show_icons=true&theme=dark&hide_border=true&bg_color=070707&title_color=FAF9F6&icon_color=dc2626&text_color=a3a3a3&count_private=true&include_all_commits=true&hide_rank=false" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=abdohosnie&show_icons=true&theme=dark&hide_border=true&bg_color=070707&title_color=FAF9F6&icon_color=dc2626&text_color=a3a3a3&count_private=true&include_all_commits=true&hide_rank=false" width="100%" alt="GitHub Stats" />
     </td>
     <td width="48%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdohosnie&layout=compact&theme=dark&hide_border=true&bg_color=070707&title_color=FAF9F6&text_color=a3a3a3&langs_count=6" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abdohosnie&layout=compact&theme=dark&hide_border=true&bg_color=070707&title_color=FAF9F6&text_color=a3a3a3&langs_count=6" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
